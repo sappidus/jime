@@ -73,7 +73,7 @@ class: center, middle
 
 ---
 
-# Actions (2 per turn)
+# Actions
 
 .left-column[- <h2>Travel</h2>
 - <h2>.fade[Interact]</h2>
@@ -81,15 +81,12 @@ class: center, middle
 
 --
 
-.right-column[
-- gain 2 movement "points"
+.right-column[- gain 2 movement "points"
 - each can be spent to move one *space*]
 
 --
 
-.right-column[
-<h3>.center[Demo!]</h3>
-]
+.right-column[<h3>.center[Demo!]</h3>]
 
 --
 
@@ -98,7 +95,13 @@ class: center, middle
 
 ---
 
-# Interact
+# Actions
+
+.left-column[- <h2>.fade[Travel]</h2>
+- <h2>Interact</h2>
+- <h2>.fade[Attack]</h2>]
+
+--
 
 - with tokens on map
 - may have to *test*
