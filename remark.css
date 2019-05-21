@@ -17,7 +17,7 @@ body {
 }
 
 .fade {
-  opacity: 25%;
+  opacity: 0.25;
 }
 
 .remark-slide-number {
