@@ -78,13 +78,16 @@ name: actions
 
 # Actions (2 per turn)
 
-.left-column[- <h2>Travel</h2>]
+.left-column[
+- <h2>Travel</h2>
+]
 
 .right-column[
 - gain 2 movement "points"
 - each can be spent to move one *space*]
 
 ---
+
 template: actions
 
 .right-column[
