@@ -74,7 +74,7 @@ class: center, middle
 
 ---
 
-template: actions
+name: actions
 
 # Actions (2 per turn)
 
@@ -85,7 +85,7 @@ template: actions
 - each can be spent to move one *space*]
 
 ---
-class: actions
+template: actions
 
 <h3>.center[Demo!]</h3>
 
