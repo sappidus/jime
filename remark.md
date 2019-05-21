@@ -163,8 +163,9 @@ class: center, middle
 --
 - then exhausts
 	- counterattacks also exhaust
-	
+
 --
+
 - [also threat rises]
 
 ---
