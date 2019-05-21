@@ -82,7 +82,8 @@ class: center, middle
 --
 
 .right-column[- gain 2 movement "points"
-- each can be spent to move one *space*]
+- each can be spent to move one *space*
+]
 
 --
 
