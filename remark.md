@@ -1,7 +1,5 @@
 ratio: '16:9'
 
-.remark-slide-content { background-color: #000}
-
 # Objective
 
 .center[Win]
@@ -37,9 +35,13 @@ ratio: '16:9'
 
 # Round structure
 
-- Actions
-- Shadow
-- Rally
+## Actions
+
+--
+## Shadow
+
+--
+## Rally
 
 ---
 
