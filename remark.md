@@ -13,9 +13,11 @@ class: center, middle
 
 ---
 
+class: center, middle
+
 # Objective
 
-<h2>.middlecenter[Win]</h2>
+<h2>Win</h2>
 
 ---
 
