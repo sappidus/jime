@@ -78,9 +78,11 @@ layout: actions
 
 # Actions (2 per turn)
 
-.left-column[- <h2>Travel</h2>
+.left-column[
+- <h2>Travel</h2>
 - <h2>Interact</h2>
-- <h2>Attack</h2>]
+- <h2>Attack</h2>
+]
 
 ---
 
