@@ -74,7 +74,7 @@ class: center, middle
 
 ---
 
-layout: actions
+name: actions
 
 # Actions (2 per turn)
 
