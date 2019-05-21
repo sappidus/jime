@@ -3,6 +3,6 @@ body {
   color: blue;
 }
 
-.background body {
-  color: black;
+.remark-slide-content {
+  background-color: black;
 }
