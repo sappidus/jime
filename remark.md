@@ -10,7 +10,6 @@ class: center, middle
 
 # LotR: Journeys in Middle-earth
 
-
 ---
 
 class: center, middle
@@ -23,7 +22,7 @@ class: center, middle
 
 # Winning
 
-- complete sequential objectives
+- complete main objectives
 
 ---
 
