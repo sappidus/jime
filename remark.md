@@ -124,7 +124,6 @@ class: center, middle
 # Tests
 
 --
-
 - flip N cards off the top of your deck
 	- N is usually the stat being tested
 - look at symbols in upper-left
@@ -141,6 +140,7 @@ class: center, middle
 
 # Attack tests
 
+--
 - test an icon depicted on the weapon
 - successes can be spent on weapon abilities
 	- only one instance of a given ability during a single attack
