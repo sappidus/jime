@@ -35,15 +35,13 @@ class: center, middle
 
 # Threat
 
-![pic](XXX)
-
-- threat rises each round, with thresholds for loss
+- threat rises each round
+- threshold for game loss
+- lower thresholds for other badness
 
 --
 
-![pic](XXX)
-
-- and other badness
+<h3>.center[Demo!]</h3>
 
 ---
 
