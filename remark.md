@@ -123,6 +123,8 @@ class: center, middle
 
 # Tests
 
+--
+
 - flip N cards off the top of your deck
 	- N is usually the stat being tested
 - look at symbols in upper-left
