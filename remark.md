@@ -103,8 +103,8 @@ class: center, middle
 
 --
 
-- with tokens on map
-- may have to *test*
+.right-column[- with tokens on map
+- may have to *test*]
 
 ---
 
