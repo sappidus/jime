@@ -6,6 +6,7 @@ body {
   background-color: black;
   font-size: x-large;
   > .middlecenter {
+    display: block;
     vetical-align: middle;
     text-align: center;
   }
