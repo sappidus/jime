@@ -149,7 +149,6 @@ class: center, middle
 <h3>.center[Demo!]</h3>
 
 --
-
 - some weapons are ranged
 - may induce counterattack
 
