@@ -1,4 +1,4 @@
-<!-- class: middle, center -->
+ratio: 16:9
 
 # Objective
 
