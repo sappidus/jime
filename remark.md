@@ -192,7 +192,7 @@ class: center, middle
 
 # Nearby
 
-- *nearby* spaces = 0 or 1 moves away
+- *nearby* spaces = 0 or 1 move away
   - so, includes itself
 
 --
