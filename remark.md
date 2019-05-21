@@ -2,7 +2,7 @@ ratio: '16:9'
 
 # Objective
 
-.center[Win]
+.center[<h1>Win</h1>]
 
 ---
 
