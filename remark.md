@@ -160,6 +160,7 @@ class: center, middle
 
 # Preparing
 
+--
 - now the text is active (and icons ignored)
 
 --
