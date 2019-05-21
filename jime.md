@@ -1,7 +1,5 @@
 layout: true
 
-count: false
-
 ratio: '16:9'
 
 ---
