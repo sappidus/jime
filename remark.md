@@ -153,9 +153,12 @@ class: center, middle
 # Shadow
 
 --
-- each (ready) enemy activates
+- each enemy activates
 --
 , usually to move & attack
+
+--
+  - only if ready
 
 --
 - then exhausts
