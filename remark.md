@@ -4,9 +4,6 @@ count: false
 
 ratio: '16:9'
 
-countIncrementalSlides: false
-
-
 ---
 
 class: center, middle
