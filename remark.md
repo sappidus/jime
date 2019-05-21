@@ -39,22 +39,23 @@ ratio: '16:9'
 1. <h2>Actions</h2>
 
 --
-## 2. Shadow
+2. <h2>Shadow</h2>
 
 --
-## 3. Rally
+3. <h2>Rally</h2>
 
 ---
 
 # Actions (2 per turn)
 
-## - Travel
+--
+- <h2>Travel</h2>
 
 --
-## - Interact
+- <h2>Interact</h2>
 
 --
-## - Attack
+- <h2>Attack</h2>
 
 ---
 
