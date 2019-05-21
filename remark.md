@@ -35,7 +35,8 @@ ratio: '16:9'
 
 # Round structure
 
-## 1. Actions
+--
+1. <h2>Actions</h2>
 
 --
 ## 2. Shadow
