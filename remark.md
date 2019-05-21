@@ -80,7 +80,7 @@ name: actions
 
 .left-column[- <h2>Travel</h2>
 - <h2>.fade[Interact]</h2>
-.fade[- <h2>Attack</h2>]
+- <h2>.fade[Attack]</h2>
 ]
 
 ---
