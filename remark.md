@@ -78,12 +78,10 @@ name: actions
 
 # Actions (2 per turn)
 
-.left-column[
-- <h2>Travel</h2>
+.left-column[- <h2>Travel</h2>
 ]
 
-.right-column[
-- gain 2 movement "points"
+.right-column[- gain 2 movement "points"
 - each can be spent to move one *space*]
 
 ---
@@ -95,10 +93,8 @@ template: actions
 ]
 
 --
-.right-column[
-- might explore a *tile*, gaining *inspiration*
-- can spend moves before and/or after 2nd action
-]
+.right-column[- might explore a *tile*, gaining *inspiration*
+- can spend moves before and/or after 2nd action]
 
 ---
 
