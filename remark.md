@@ -27,10 +27,7 @@ ratio: '16:9'
 
 - threat rises each round, with thresholds for loss
 
----
-
-# Threat
-
+--
 ![pic](XXX)
 
 - and other badness
