@@ -65,7 +65,9 @@ class: center, middle
 
 --
 
-.left-column[- <h2>Travel</h2>]
+.left-column[
+
+- <h2>Travel</h2>]
 
 --
 
