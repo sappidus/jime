@@ -71,11 +71,13 @@ class: center, middle
 
 --
 
-.left-column[- <h2>Interact</h2>]
+.left-column[
+- <h2>Interact</h2>]
 
 --
 
-.left-column[- <h2>Attack</h2>]
+.left-column[
+- <h2>Attack</h2>]
 
 ---
 
