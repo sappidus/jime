@@ -68,14 +68,7 @@ class: center, middle
 .left-column[
 
 - <h2>Travel</h2>
-]
-
---
-.left-column[
-- <h2>Interact</h2>]
-
---
-.left-column[
+- <h2>Interact</h2>
 - <h2>Attack</h2>]
 
 ---
