@@ -144,6 +144,12 @@ class: center, middle
 - test an icon depicted on the weapon
 - successes can be spent on weapon abilities
 	- only one instance of a given ability during a single attack
+
+--
+<h3>.center[Demo!]</h3>
+
+--
+
 - some weapons are ranged
 - may induce counterattack
 
