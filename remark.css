@@ -5,3 +5,7 @@ body {
 .remark-slide-content {
   background-color: black;
 }
+
+.remark-slide-number {
+  opacity: 0;
+}
