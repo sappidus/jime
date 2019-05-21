@@ -1,10 +1,10 @@
 body {
   color: yellow;
-  font-size: x-large;
 }
 
 .remark-slide-content {
   background-color: black;
+  font-size: 24px;
 }
 
 .left-column {
