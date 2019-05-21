@@ -87,10 +87,10 @@ name: actions
 ---
 template: actions
 
-<h3>.center[Demo!]</h3>
+.right-column[<h3>.center[Demo!]</h3>]
 
 --
-- might explore a *tile*, gaining *inspiration*
+.right-column[- might explore a *tile*, gaining *inspiration*
 - can spend moves before and/or after 2nd action]
 
 ---
