@@ -78,10 +78,9 @@ name: actions
 
 # Actions (2 per turn)
 
-.left-column[
-- <h2>Travel</h2>
-- <h2>Interact</h2>
-- <h2>Attack</h2>
+.left-column[- <h2>Travel</h2>
+- <h2>.fade[Interact]</h2>
+- <h2>.fade[Attack]</h2>
 ]
 
 ---
