@@ -74,9 +74,11 @@ class: center, middle
 
 ---
 
-# Travel
+# Actions (2 per turn)
 
-- gain 2 movement "points"
+.left-column[- Travel]
+
+.right-column[- gain 2 movement "points"
 - each can be spent to move one *space*
 
 --
@@ -84,7 +86,7 @@ class: center, middle
 
 --
 - might explore a *tile*, gaining *inspiration*
-- can spend moves before and/or after 2nd action
+- can spend moves before and/or after 2nd action]
 
 ---
 
