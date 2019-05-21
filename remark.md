@@ -95,6 +95,11 @@ class: center, middle
 	- N is usually the stat being tested
 - look at symbols in upper-left
 	- **text does not matter**
+
+--
+<h3>.center[Demo!]</h3>
+
+--
 - inspiration can be spent 1-for-1 to turn fate icon(s) into success(es)
 - discard the tested cards
 
@@ -123,26 +128,43 @@ class: center, middle
 # Preparing
 
 - now the text is active (and icons ignored)
+
+--
 - most skills require discard as a cost to trigger ability
+
+--
 - limit: 4 prepared cards
 
 ---
 
 # Shadow
 
+--
 - each (ready) enemy activates
-	- usually to move & attack
+--
+, usually to move & attack
+
+--
 - then exhausts
 	- counterattacks also exhaust
+	
+--
 - [also threat rises]
 
 ---
 
 # Damage/Fear
 
+--
 - two separate HP pools
+
+--
 - hitting the limit on either triggers a *last stand*
+
+--
 - can usually be *negated* via a test
+
+--
 - cards suffered face **up** by default
 
 ---
@@ -158,6 +180,8 @@ class: center, middle
 # Nearby
 
 - *nearby* spaces = 0 or 1 moves away (so, includes itself)
+
+--
 - *nearby* hero or token = on nearby space… but you are **not** nearby yourself
 
 ---
@@ -165,7 +189,15 @@ class: center, middle
 # Final points
 
 - **Don't dawdle!**
+
+--
 - Test appropriately.
+
+--
 	- Don't waste successes or inspiration.
+	
+--
 	- Know who should test where.
+	
+--
 	- Many tests require a **cumulative** # of successes.
