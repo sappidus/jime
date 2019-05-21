@@ -26,6 +26,7 @@ ratio: '16:9'
 ![pic](XXX)
 
 - threat rises each round, with thresholds for loss
+
 --
 
 ![pic](XXX)
@@ -45,7 +46,11 @@ ratio: '16:9'
 # Actions (2 per turn)
 
 - Travel
+
+--
 - Interact
+
+--
 - Attack
 
 ---
