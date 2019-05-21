@@ -1,8 +1,8 @@
-ratio: 16:9
+ratio: '16:9'
 
 # Objective
 
-Win
+.center[Win]
 
 ---
 
