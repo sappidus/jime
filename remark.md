@@ -83,11 +83,13 @@ class: center, middle
 
 .right-column[- gain 2 movement "points"
 - each can be spent to move one *space*
+
 ]
 
 --
 
-.right-column[<h3>.center[Demo!]</h3>]
+.right-column[
+<h3>.center[Demo!]</h3>]
 
 --
 
@@ -109,10 +111,16 @@ class: center, middle
 
 ---
 
-# Attack
+# Actions
 
-- Against enemies, with weapon(s)
-- will have to *test*
+.left-column[- <h2>.fade[Travel]</h2>
+- <h2>.fade[Interact]</h2>
+- <h2>Attack</h2>]
+
+--
+
+.right-column[- against enemies, with weapon(s)
+- will have to *test*]
 
 ---
 
