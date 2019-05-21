@@ -5,6 +5,10 @@ body {
 .remark-slide-content {
   background-color: black;
   font-size: x-large;
+  > .middlecenter {
+    vetical-align: middle;
+    text-align: center;
+  }
 }
 
 .left-column {
