@@ -35,25 +35,25 @@ ratio: '16:9'
 
 # Round structure
 
-## Actions
+## 1. Actions
 
 --
-## Shadow
+## 2. Shadow
 
 --
-## Rally
+## 3. Rally
 
 ---
 
 # Actions (2 per turn)
 
-- Travel
+## - Travel
 
 --
-- Interact
+## - Interact
 
 --
-- Attack
+## - Attack
 
 ---
 
