@@ -64,12 +64,15 @@ class: center, middle
 # Actions (2 per turn)
 
 --
+
 .left-column[- <h2>Travel</h2>]
 
 --
+
 .left-column[- <h2>Interact</h2>]
 
 --
+
 .left-column[- <h2>Attack</h2>]
 
 ---
