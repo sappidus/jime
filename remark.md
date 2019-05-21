@@ -13,11 +13,9 @@ class: center, middle
 
 ---
 
-class: center, middle
-
 # Objective
 
-<h2>Win</h2>
+.middle[.center[<h2>Win</h2>]]
 
 ---
 
