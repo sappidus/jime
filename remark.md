@@ -74,14 +74,18 @@ class: center, middle
 
 ---
 
+template: actions
+
 # Actions (2 per turn)
 
 .left-column[- Travel]
 
 .right-column[- gain 2 movement "points"
-- each can be spent to move one *space*
+- each can be spent to move one *space*]
 
---
+---
+name: actions
+
 <h3>.center[Demo!]</h3>
 
 --
