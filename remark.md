@@ -2,6 +2,13 @@ ratio: '16:9'
 
 class: center, middle
 
+# LotR: Journeys in Middle-earth
+
+
+---
+
+class: center, middle
+
 # Objective
 
 <h2>Win</h2>
