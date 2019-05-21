@@ -66,8 +66,10 @@ class: center, middle
 - gain 2 movement "points"
 - each can be spent to move one *space*
 
-![pic](XXX)
+--
+<h3>.center[Demo!]</h3>
 
+--
 - might explore a *tile*, gaining *inspiration*
 - can spend moves before and/or after 2nd action
 
