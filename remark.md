@@ -153,8 +153,8 @@ ratio: '16:9'
 
 # Nearby
 
-- *nearby* spaces = space itself and all adjacent spaces
-- *nearby* hero or token = on same or adjacent space… but you are **not** nearby yourself
+- *nearby* spaces = 0 or 1 moves away (so, includes itself)
+- *nearby* hero or token = on nearby space… but you are **not** nearby yourself
 
 ---
 
