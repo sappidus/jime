@@ -80,11 +80,12 @@ template: actions
 
 .left-column[- <h2>Travel</h2>]
 
-.right-column[- gain 2 movement "points"
+.right-column[
+- gain 2 movement "points"
 - each can be spent to move one *space*]
 
 ---
-name: actions
+class: actions
 
 <h3>.center[Demo!]</h3>
 
