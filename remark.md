@@ -208,9 +208,9 @@ class: center, middle
 
 --
 	- Don't waste successes or inspiration.
-	
+
 --
 	- Know who should test where.
-	
+
 --
 	- Many tests require a **cumulative** # of successes.
