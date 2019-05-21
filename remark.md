@@ -116,7 +116,7 @@ class: center, middle
 
 --
 
-.right-column[- against enemies, with weapon(s)
+.right-column[- against enemies, using weapon(s)
 - will have to *test*]
 
 ---
